@@ -2,6 +2,12 @@
 
 A scientific visualization project applying **ParaView** and **Python (pvpython)** to financial market data — demonstrating end-to-end VTK pipelines, custom filter chains, and volume rendering techniques typically used in engineering and medical imaging, now applied to options markets and order book microstructure.
 
+<img width="1231" height="875" alt="Screenshot 2026-03-18 at 3 16 41 p m" src="https://github.com/user-attachments/assets/95039157-0d27-4919-b1dd-24f8f3b373d4" />
+
+<img width="1234" height="869" alt="Screenshot 2026-03-18 at 3 17 21 p m" src="https://github.com/user-attachments/assets/53422e9c-6ab8-4866-9bc7-c71579746b3c" />
+
+
+
 ---
 
 ## What This Project Visualizes
